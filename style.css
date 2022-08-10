@@ -1,0 +1,14 @@
+body{
+    background-color: lightgreen;
+}
+h1{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    background-color: bisque;
+    color: blue;
+    text-align: justify;
+}
