@@ -1,5 +1,5 @@
 body{
-    background-color: lightgreen;
+    background-color: rgb(152, 216, 211);
 }
 h1{
     font-size: 40px;
@@ -8,7 +8,20 @@ h1{
 }
 p{
     font-size: 20px;
-    background-color: bisque;
-    color: blue;
+    color: rgb(2, 2, 20);
     text-align: justify;
+}
+#imagem1{
+border: 200px;
+color: black;
+}
+ol{
+    font-size: 15px;
+}
+.itens{
+    background-color: rgb(240, 236, 243);
+}
+ul{
+    display: inline-block;
+
 }
